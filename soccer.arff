@@ -1,0 +1,39 @@
+@relation win
+
+@attribute possesion numeric
+@attribute shots numeric
+@attribute on_goal numeric
+@attribute fouls numeric
+@attribute win {Won,Lost,Draw}
+
+@data
+50	10	7	8	Won
+50	10	5	11	Lost
+49	13	7	21	Won
+51	7	3	9	Lost
+72	7	4	9	Lost
+28	12	6	11	Won
+67	19	6	14	Lost
+33	3	3	8	Won
+65	13	5	12	Lost
+35	14	4	14	Won
+50	14	4	14	Won
+50	13	7	7	Lost
+52	11	2	9	Lost
+48	19	7	8	Won
+34	14	7	8	Won
+66	10	2	11	Lost
+53	9	5	15	Draw
+47	8	4	14	Draw
+28	12	6	11	Won
+72	7	4	9	Lost
+71	16	1	11	Lost
+29	4	4	4	Won
+69	24	8	10	Lost
+31	3	2	14	Won
+53	11	3	7	Lost
+47	14	6	8	Won
+72	19	7	8	Won
+28	1	0	7	Lost
+29	6	2	4	Draw
+71	23	9	7	Draw
